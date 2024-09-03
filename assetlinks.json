@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "app.vmodel.social",
+            "sha256_cert_fingerprints": [
+                "48:FF:4F:AE:DC:A5:98:A7:82:1A:BE:C3:7A:0F:5D:B4:83:59:CA:B6:8C:47:19:CE:8D:03:59:CD:C8:E4:FD:7D"
+            ]
+        }
+    }
+]

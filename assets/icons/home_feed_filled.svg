@@ -1,0 +1,17 @@
+<!-- <svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M829.166 562.5H170.833C108.333 562.5 83.333 589.167 83.333 655.417V823.75C83.333 890 108.333 916.667 170.833 916.667H829.166C891.666 916.667 916.666 890 916.666 823.75V655.417C916.666 589.167 891.666 562.5 829.166 562.5Z" fill="#503C3B" stroke="#503C3B" stroke-width="60" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M829.166 83.333H170.833C108.333 83.333 83.333 110 83.333 176.25V344.583C83.333 410.833 108.333 437.5 170.833 437.5H829.166C891.666 437.5 916.666 410.833 916.666 344.583V176.25C916.666 110 891.666 83.333 829.166 83.333Z" fill="#503C3B" stroke="#503C3B" stroke-width="60" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> -->
+
+<svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="vuesax/linear/row-vertical">
+        <g id="row-vertical">
+            <path id="Vector"
+                d="M19.9 13.5H4.1C2.6 13.5 2 14.14 2 15.73V19.77C2 21.36 2.6 22 4.1 22H19.9C21.4 22 22 21.36 22 19.77V15.73C22 14.14 21.4 13.5 19.9 13.5Z"
+                fill="#503C3B" stroke="#503C3B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="Vector_2"
+                d="M19.9 2H4.1C2.6 2 2 2.64 2 4.23V8.27C2 9.86 2.6 10.5 4.1 10.5H19.9C21.4 10.5 22 9.86 22 8.27V4.23C22 2.64 21.4 2 19.9 2Z"
+                fill="#503C3B" stroke="#503C3B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<!-- <svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="450" cy="450" r="420" stroke="#503C3B" stroke-width="60"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M450 750C615.685 750 750 615.685 750 450C750 284.315 615.685 150 450 150C284.315 150 150 284.315 150 450C150 615.685 284.315 750 450 750ZM603 328C621.225 328 636 313.897 636 296.5C636 279.103 621.225 265 603 265C584.775 265 570 279.103 570 296.5C570 313.897 584.775 328 603 328Z" fill="#503C3B"/>
+</svg> -->
+
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="11.25" stroke="#FBFBFB" stroke-width="1.5" />
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4C7.58172 4 4 7.58172 4 12C4 16.4183 7.58172 20 12 20ZM15 9C15.5523 9 16 8.55228 16 8C16 7.44772 15.5523 7 15 7C14.4477 7 14 7.44772 14 8C14 8.55228 14.4477 9 15 9Z"
+        fill="white" />
+</svg>

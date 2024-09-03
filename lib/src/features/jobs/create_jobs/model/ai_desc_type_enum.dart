@@ -1,0 +1,1 @@
+enum AIDescType { service, job }

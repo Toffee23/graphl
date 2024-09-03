@@ -1,0 +1,16 @@
+<!-- <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M829.166 562.5H170.833C108.333 562.5 83.333 589.167 83.333 655.417V823.75C83.333 890 108.333 916.667 170.833 916.667H829.166C891.666 916.667 916.666 890 916.666 823.75V655.417C916.666 589.167 891.666 562.5 829.166 562.5Z" stroke="#503C3B" stroke-width="60" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M829.166 83.333H170.833C108.333 83.333 83.333 110 83.333 176.25V344.583C83.333 410.833 108.333 437.5 170.833 437.5H829.166C891.666 437.5 916.666 410.833 916.666 344.583V176.25C916.666 110 891.666 83.333 829.166 83.333Z" stroke="#503C3B" stroke-width="60" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> -->
+<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="vuesax/linear/row-vertical">
+        <g id="row-vertical">
+            <path id="Vector"
+                d="M20.8531 13.5H5.05312C3.55312 13.5 2.95312 14.14 2.95312 15.73V19.77C2.95313 21.36 3.55312 22 5.05312 22H20.8531C22.3531 22 22.9531 21.36 22.9531 19.77V15.73C22.9531 14.14 22.3531 13.5 20.8531 13.5Z"
+                stroke="#503C3B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="Vector_2"
+                d="M20.8531 2H5.05312C3.55312 2 2.95312 2.64 2.95312 4.23V8.27C2.95312 9.86 3.55312 10.5 5.05312 10.5H20.8531C22.3531 10.5 22.9531 9.86 22.9531 8.27V4.23C22.9531 2.64 22.3531 2 20.8531 2Z"
+                stroke="#503C3B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+    </g>
+</svg>
